@@ -21,4 +21,6 @@ function woodCalculator(chairQuantity, tableQuantity, bedQuantity){
 const firstOption = woodCalculator(4, 2, 3);
 console.log(firstOption);
 
+// class 22-5 (end)
+
 // [{(Alhadullah)}]
